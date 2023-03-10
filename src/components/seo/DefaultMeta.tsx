@@ -14,8 +14,8 @@ export const DefaultMeta: FC<DefaultMetaProps> = ({ canonical }) => {
   const site = {
     themeColor: (tailwindVars.theme.colors as any).light,
     locale: 'en',
-    name: 'Oden',
-    description: 'Oden Frontend',
+    name: 'Realtime Dashboard',
+    description: 'Realtime dashboard',
   }
 
   return (

@@ -36,6 +36,7 @@ module.exports = {
     },
     fontFamily: {
       body: ['var(--font-inter)', fontFamily.sans],
+      mono: ['var(--font-roboto-mono)', fontFamily.mono],
     },
     fontSize: {
       base: '2rem',
